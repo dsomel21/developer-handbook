@@ -274,7 +274,7 @@ Javascript
 
 #### JWT
 
-*   [ ] You how used at least one library to work with JWT
+*   [ ] You used at least one library to work with JWT
 *   [ ] You can create JWT with custom payload
 
 ### Contentful
